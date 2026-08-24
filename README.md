@@ -4,7 +4,9 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=SOUMYA+RANJAN;AI%2FML+Engineer+%E2%80%94+Document+AI+%26+OCR+Systems;I+turn+degraded+scans+into+machine-readable+truth.)](https://github.com/SoumyaR01)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=SOUMYA+RANJAN;AI%2FML+Engineer+%E2%80%94+Document+AI+%26+OCR;I+restore+what+scanners+lose.)](https://github.com/SoumyaR01)
+
+<img src="https://komarev.com/ghpvc/?username=SoumyaR01&label=Profile+Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
 
 <p align="center">
   <strong>AI/ML Engineer • Document Restoration • OCR Pipelines • Vision-Language Models</strong>
@@ -14,7 +16,7 @@
 
 <p align="center">
   <a href="https://soumyar01.github.io"><img src="https://img.shields.io/badge/Portfolio-soumyar01.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>
-  <a href="mailto:soumyaranjanbhanja8@gmail.com"><img src="https://img.shields.io/badge/Email-soumyaranjanbhanja8-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
+  <a href="mailto:soumyaranjanbhanja8@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/soumya-ranjan-b385a91b9"><img src="https://img.shields.io/badge/LinkedIn-soumya--ranjan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
   <a href="https://github.com/SoumyaR01?tab=repositories"><img src="https://img.shields.io/badge/GitHub-51_Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" alt="GitHub Repos"/></a>
 </p>
@@ -143,12 +145,17 @@ I work on the parts of document AI pipelines that fail quietly — a stamp that 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SoumyaR01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Soumya's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaR01&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
+<img src="https://raw.githubusercontent.com/SoumyaR01/SoumyaR01/main/generated/overview.svg" alt="Soumya's GitHub Stats" width="48%"/>
+<img src="https://raw.githubusercontent.com/SoumyaR01/SoumyaR01/main/generated/languages.svg" alt="Top Languages" width="48%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=SoumyaR01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SoumyaR01/SoumyaR01/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SoumyaR01/SoumyaR01/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/SoumyaR01/SoumyaR01/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+</picture>
+
 
 </div>
 
@@ -160,7 +167,7 @@ I'm open to collaborating on document AI, OCR, and computer vision projects.
 
 <div align="center">
 
-<a href="mailto:soumyaranjanbhanja8@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-soumyaranjanbhanja8@gmail.com-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
+<a href="mailto:soumyaranjanbhanja8@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-Gmail-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/soumya-ranjan-b385a91b9"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-soumya--ranjan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
 <a href="https://bsky.app/profile/SoumyaR01"><img src="https://img.shields.io/badge/Follow_on_Bluesky-@SoumyaR01-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=0d1117" alt="Bluesky"/></a>
 
