@@ -1,71 +1,167 @@
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/153294101?v=4" width="120" height="120" style="border-radius:50%;" alt="Soumya Ranjan" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=SOUMYA+RANJAN;AI%2FML+Engineer+%E2%80%94+Document+AI+%26+OCR+Systems;I+turn+degraded+scans+into+machine-readable+truth.)](https://github.com/SoumyaR01)
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B;Soumya+Ranjan;AI+%26+Computer+Vision+Researcher;Building+Deep+Learning+Solutions+for+Documents" alt="Typing SVG" />
+  <strong>AI/ML Engineer • Document Restoration • OCR Pipelines • Vision-Language Models</strong>
+  <br/>
+  <span>IIT Madras Research Park (IITM Pravartak Technologies Foundation) · Chennai, India</span>
 </p>
 
 <p align="center">
-  <a href="https://bsky.app/profile/SoumyaR01"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/soumya-ranjan-b385a91b9"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:soumyaranjanbhanja8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://soumyar01.github.io"><img src="https://img.shields.io/badge/Portfolio-soumyar01.github.io-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="Portfolio"/></a>
+  <a href="mailto:soumyaranjanbhanja8@gmail.com"><img src="https://img.shields.io/badge/Email-soumyaranjanbhanja8-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/soumya-ranjan-b385a91b9"><img src="https://img.shields.io/badge/LinkedIn-soumya--ranjan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
+  <a href="https://github.com/SoumyaR01?tab=repositories"><img src="https://img.shields.io/badge/GitHub-51_Repositories-58A6FF?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" alt="GitHub Repos"/></a>
 </p>
+
+</div>
 
 ---
 
-## 💫 About Me
+## 🧭 About Me
 
-I'm currently working on AI and Computer Vision research at IIT Madras Research Park (IITM Pravartak Technology and Innovation), with a focus on deep learning for document understanding, OCR, and document restoration.
+I work on the parts of document AI pipelines that fail quietly — a stamp that breaks OCR, a Devanagari glyph a validator scores as an error, a scanned gazette page nobody double-checked. At **IIT Madras Research Park (IITM Pravartak Technologies Foundation)**, I build document restoration, OCR validation, and Vision-Language Model pipelines for large-scale government and institutional document processing.
 
-I'm looking to collaborate on open-source AI, Computer Vision, OCR, Document Restoration, and Deep Learning projects.
+<br/>
 
-I'm looking for help with diffusion models, Vision-Language Models (VLMs), multimodal AI, and scalable deep learning pipelines.
-
-I'm currently learning Advanced Computer Vision, Generative AI, Vision Transformers, MLOps, and Large Language Models.
-
-Ask me about Python, Deep Learning, Computer Vision, OCR, OpenCV, PyTorch, Document Restoration, and Machine Learning.
-
-Fun fact: I enjoy solving real-world AI challenges and turning research ideas into practical applications.
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+<table>
+<tr>
+<td width="25%" align="center">
+  <strong>🔍 OCR Validation</strong><br/>
+  <sub>HOCR-vs-PDF verification across bilingual, degraded scans</sub>
+</td>
+<td width="25%" align="center">
+  <strong>🖼️ Document Restoration</strong><br/>
+  <sub>Attention ResUNet & RealESRGAN pipelines for scan recovery</sub>
+</td>
+<td width="25%" align="center">
+  <strong>🌐 Multilingual OCR</strong><br/>
+  <sub>English + Devanagari, mixed tables, stamps, gazette layouts</sub>
+</td>
+<td width="25%" align="center">
+  <strong>⚙️ Production Pipelines</strong><br/>
+  <sub>Reproducible Python tooling, from ingestion to XLSX reporting</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🔬 Current Focus — IITM Pravartak Technologies Foundation
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=SoumyaR01&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SoumyaR01&theme=dark&hide_border=false" />
-</p>
+### 📄 PDF/HOCR Validation Pipeline
+> **Multi-module accuracy validator for large-scale OCR quality assurance.**
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=SoumyaR01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+- **The Problem:** Automated OCR accuracy scores on Indian Railway Board circulars and gazette notifications were misleading — corrupt Devanagari font layers pushed a document's true ~99.5% accuracy down to an automated score of ~81%.
+- **The Solution:** HOCR parsing, PDF text extraction, Tesseract fallback, Indic-language support, bbox normalization, and IoU-based comparison, with results exported to XLSX reports.
+- **Stack:** Python · PaddleOCR · Tesseract · OpenCV · OpenPyXL
+
+</td>
+<td width="50%" valign="top">
+
+### 🖼️ Document Restoration Models
+> **Deep learning pipeline for restoring degraded government scans.**
+
+- **The Problem:** Decades of scanned railway and gazette documents suffer from noise, blur, and contrast loss that standard upscalers can't recover.
+- **The Solution:** `DocRestoreNet` (Attention ResUNet) and a fine-tuned RealESRGAN pipeline, iterated across FrequencyLoss/LaplacianLoss variants and an 11-stage CV restoration pipeline (CLAHE, Sauvola binarization, morphological ops).
+- **Stack:** PyTorch · RealESRGAN · OpenCV · Google Colab
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 OCR Engine Evaluation
+> **Benchmarking OCR engines on real-world degraded documents.**
+
+- **The Problem:** No single OCR engine handles degraded scans, mixed English/Devanagari text, tables, and stamps equally well.
+- **The Solution:** Comparative evaluation of PaddleOCR (v2→v3 migration), Chandra OCR (vLLM → HuggingFace), and Baidu Unlimited-OCR against Indian railway and gazette documents.
+- **Stack:** PaddleOCR · Chandra OCR · HuggingFace · vLLM
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ Document Taxonomy Normalization
+> **Standardizing document classification across government archives.**
+
+- **The Problem:** Raw category labels across archives were inconsistent and unusable for downstream retrieval.
+- **The Solution:** Mapped raw labels to a fixed 10-label schema — ACT, RULE, GO, CIRCULAR, MANUAL, NOTIFICATION, ARTICLE, SCHEME, STANDARD, LETTER.
+- **Stack:** Python · Pandas
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SoumyaR01&icon=0&color=0" />
-</p>
+## 🚀 Open Source & Learning
+
+<div align="center">
+
+| Repository | Description | Stack |
+|---|---|---|
+| [Building-Chatbot-with-Multiple-Tools-like-Langgraph](https://github.com/SoumyaR01/Building-Chatbot-with-Multiple-Tools-like-Langgraph) | RAG chatbot with tool-calling across arXiv, Wikipedia & custom functions | LangGraph · Python |
+| [Working-With-FAISS](https://github.com/SoumyaR01/Working-With-FAISS) | Vector similarity search experiments | FAISS · Python |
+| [Embedding-Technique-Using-HuggingFace](https://github.com/SoumyaR01/Embedding-Technique-Using-HuggingFace) | Embedding generation workflows | HuggingFace |
+| [Pydantic-Base-Model](https://github.com/SoumyaR01/Pydantic-Base-Model) | Structured data validation patterns | Pydantic · Python |
+| [lead_scoring_18Dec2023](https://github.com/SoumyaR01/lead_scoring_18Dec2023) | Lead scoring case study | Jupyter · scikit-learn |
+| [SoumyaR01.github.io](https://github.com/SoumyaR01/SoumyaR01.github.io) | Personal portfolio site | HTML |
+
+[Browse all 51 repositories on GitHub &rarr;](https://github.com/SoumyaR01?tab=repositories)
+
+</div>
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+
+| Layer | Technologies |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Deep Learning & CV** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| **Document AI & OCR** | ![PaddleOCR](https://img.shields.io/badge/PaddleOCR-58A6FF?style=flat-square) ![Tesseract](https://img.shields.io/badge/Tesseract-58A6FF?style=flat-square) ![HOCR](https://img.shields.io/badge/HOCR-58A6FF?style=flat-square) ![VLMs](https://img.shields.io/badge/Vision--Language_Models-58A6FF?style=flat-square) |
+| **NLP & Agents** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![FAISS](https://img.shields.io/badge/FAISS-00758F?style=flat-square) |
+| **Data & Reporting** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-58A6FF?style=flat-square) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) |
+| **Tooling** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SoumyaR01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Soumya's GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoumyaR01&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=SoumyaR01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+
+</div>
+
+---
+
+## 🤝 Connect
+
+I'm open to collaborating on document AI, OCR, and computer vision projects.
+
+<div align="center">
+
+<a href="mailto:soumyaranjanbhanja8@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-soumyaranjanbhanja8@gmail.com-58A6FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/soumya-ranjan-b385a91b9"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-soumya--ranjan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
+<a href="https://bsky.app/profile/SoumyaR01"><img src="https://img.shields.io/badge/Follow_on_Bluesky-@SoumyaR01-0285FF?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=0d1117" alt="Bluesky"/></a>
+
+</div>
